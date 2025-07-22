@@ -1,2 +1,2 @@
-# git-practir
+# git-practice
 git course demo
