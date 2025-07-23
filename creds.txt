@@ -1,3 +1,0 @@
-username = sumanthkm-dev
-password = rdy03
-email = sumanthkm835@gmail.com

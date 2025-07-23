@@ -1,2 +1,2 @@
-# git-practice
-git course demo
+Hello world
+This is my first project
